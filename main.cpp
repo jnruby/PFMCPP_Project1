@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       person
+//  action 1:   person eats food
+person.eat();
+//  action 2:   person takes shower
+person.takeShower();
+//  action 3:   person takes a nap
+person.nap();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Volvo
+//  action 1:   volvo engine overheat
+volvo.overheatEngine();
+//  action 2:   wheels fall off
+volvo.wheelsRelease();
+//  action 3:   rust accumulates
+volvo.accumulateRust;
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:   cucumber
+//  action 1:   the cucumber is peeled
+cucumber.peel();
+//  action 2:   the cucumber is sliced
+cucumber.slice();
+//  action 3:   the cucumber is pickled
+cucumber.pickle();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:   mixer knob
+//  action 1:   turn the knob right
+knob.rotateRight();
+//  action 2:   turn the knob left
+knob.rotateLeft();
+//  action 3:   pull knob out
+knob.remove();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:   guitar
+//  action 1:   detune
+guitar.detuneStrings();
+//  action 2:   use slide
+guitar.useSlide();
+//  action 3:   change tuning system
+guitar.changeTuning();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:   stick
+//  action 1:   is thrown
+stick.thrown();
+//  action 2:   burns
+stick.burn();
+//  action 3:   is split
+stick.split();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:   dough
+//  action 1:   knead the dough
+dough.knead();
+//  action 2:   rise the dough
+dough.rise();
+//  action 3:   roll the dough
+dough.roll();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:   metronome
+//  action 1:   increase tempo
+metronome.faster();
+//  action 2:   decrease volume
+metronome.softer();
+//  action 3:   syncronize with another metronome
+metronome.sync();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       coin
+//  action 1:   coin flips
+coin.flip();
+//  action 2:   coin falls
+coin.drop();
+//  action 3:   spend coin
+coin.spend();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       boat
+//  action 1:   gets painted
+boat.paint();
+//  action 2:   check for barnacles
+boat.inspectBarnacles;
+//  action 3:   boat sinks
+boat.sink();
 
 
 #endif
