@@ -116,13 +116,13 @@ metronome.softer();
 //  action 3:   syncronize with another metronome
 metronome.sync();
 //  9)
-//  Noun:       coin
-//  action 1:   coin flips
-coin.flip();
-//  action 2:   coin falls
-coin.drop();
-//  action 3:   spend coin
-coin.spend();
+//  Noun:       humanFinger
+//  action 1:   finger points rights
+humanFinger.pointRight();
+//  action 2:   cut nail
+humanFinger.cutNail();
+//  action 3:   press button
+humanFinger.pressButton();
 //  10)
 //  Noun:       boat
 //  action 1:   gets painted
